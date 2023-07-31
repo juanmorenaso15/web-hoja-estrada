@@ -1,0 +1,48 @@
+body{
+    padding: 80px 80px 80px;
+    font-family: arial;
+    background-color: #EEB5AD;
+}
+.sub{
+    color: #BA594C;
+}
+.subb{
+    color: #DA5441;
+}
+.pp{
+    color: #8E5B54;
+}
+.titulo1{
+    text-align: center;
+    color: #7F3A30;
+}
+.p1{
+    padding: 0px 120px;
+}
+.p12{
+    padding: 0px 120px;
+}
+.p122{
+    display: inline-flex;
+
+    color: #8E5B54;
+}
+.p1222{
+    padding: 0px 50px;
+}
+.p1222{
+    padding: 0px 20px;
+}
+.p2{
+    padding: 0px 120px;
+}
+.p3{
+    padding: 0px 120px;
+}
+.p4{
+    padding: 0px 120px;
+    color: #8E5B54;
+}
+.final{
+    padding: 0px 40px;
+}
